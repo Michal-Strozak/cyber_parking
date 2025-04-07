@@ -1,2 +1,3 @@
 # cyber_parking
-projekt grupowy
+
+projrkt realizowany w grupie 3-osobowej
